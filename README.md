@@ -1,3 +1,3 @@
-# Jk-s
+# Jk-s readme
 
-# this is a test document , uninformal
+# This is a test document project, informal.
